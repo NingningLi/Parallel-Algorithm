@@ -1,2 +1,2 @@
- Trallel Algorithm Based on Hadoop,Spark.
+ Parallel Algorithm Based on Hadoop,Spark.
 
